@@ -11,13 +11,14 @@ html {
 
 
 body {
-  font-family: var(--font-family);
+  font-family: var(--font-body);
   font-size: var(--spacing-medium);
   line-height: var(--line-height);
   font-weight: var(--body-font-weight);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--off-white);
+  color: var(--black);
  }
 
 p {
@@ -147,3 +148,15 @@ sup {
     text-overflow: ellipsis;
   }
 }
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-heading);
+}
+
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+.tracked       { letter-spacing:  .1em; }
+.tracked-tight { letter-spacing: -.05em; }
+.tracked-mega  { letter-spacing:  .25em; }
