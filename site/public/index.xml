@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food I Ate on Homepage</title>
+    <link>/</link>
+    <description>Recent content in Food I Ate on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 15:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pulled Pork Torta</title>
+      <link>/post/pulled-pork-torta/</link>
+      <pubDate>Mon, 13 Aug 2018 15:15:00 +0000</pubDate>
+      
+      <guid>/post/pulled-pork-torta/</guid>
+      <description>First burger of #portlandburgerweek, the Pulled Pork Torta at the Smokehouse Tavern. Pretty good! Pulled pork is a high- risk food that can either be delicious and flavorful or a disgusting mound of damp, soggy meat. This was, thankfully, the former. Not entirely sure what made it a torta, though.</description>
+    </item>
+    
+  </channel>
+</rss>
