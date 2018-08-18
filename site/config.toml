@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Homepage"
 [params]
 cloudinary_base_url = "/img/"
+cloudinary_base_url_og = "/img/"
