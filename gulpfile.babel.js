@@ -17,11 +17,11 @@ const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.pla
 const defaultArgs = ["-d", "../dist", "-s", "site"];
 
 if (process.env.DEBUG) {
-  defaultArgs.unshift("--debug")
+  defaultArgs.unshift("--debug");
 }
 
 if (process.env.NETLIFY) {
-  defaultArgs.unshift(" --config config.production.toml")
+  defaultArgs.unshift("--config config.production.toml");
 }
 
 gulp.task("hugo", (cb) => buildSite(cb));
