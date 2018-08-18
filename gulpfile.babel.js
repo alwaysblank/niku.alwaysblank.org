@@ -21,7 +21,8 @@ if (process.env.DEBUG) {
 }
 
 if (process.env.NETLIFY) {
-  defaultArgs.unshift("--config config.production.toml");
+  defaultArgs.push("--config");
+  defaultArgs.push("./site/config.production.toml");
 }
 
 gulp.task("hugo", (cb) => buildSite(cb));
