@@ -2,10 +2,10 @@
 title: "Big Mike"
 date: 2018-08-16T18:08:57-07:00
 description: An effecient kitchen produced an okay burger.
-image: /burger-week/2018/eastburn-public-house-big-mike-burger-week-2018.jpg
+image: burger-week/2018/eastburn-public-house-big-mike-burger-week-2018.jpg
 gallery:
   - 
-    img: /burger-week/2018/big-mike-in-progress.jpg
+    img: burger-week/2018/big-mike-in-progress.jpg
     alt: "A partially eaten Big Mike"
 event:
   - Portland Burger Week

@@ -2,13 +2,13 @@
 title: "Haole Burger"
 publishDate: 2018-08-14T19:43:26-07:00
 description: Still not sold on Spam.
-image: /burger-week/2018/alameda-brewing-co-haole-burger-burger-week-2018.jpg
+image: burger-week/2018/alameda-brewing-co-haole-burger-burger-week-2018.jpg
 gallery: 
   -
-    img: /burger-week/2018/haole-burger-in-progress.jpg
+    img: burger-week/2018/haole-burger-in-progress.jpg
     alt: "Partially eaten Haole Burger"
   -
-    img: /burger-week/2018/haole-burger-internals.jpg
+    img: burger-week/2018/haole-burger-internals.jpg
     alt: "The inside of the Haole Burger"
 event:
   - Portland Burger Week

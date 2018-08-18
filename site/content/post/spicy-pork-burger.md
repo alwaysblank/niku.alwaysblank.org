@@ -2,7 +2,7 @@
 title: "Spicy Pork Burger"
 publishDate: 2018-08-14T13:09:46-07:00
 description: Not as spicy as advertised.
-image: /burger-week/2018/danwei-canting-spicy-pork-burger-burger-week-2018.jpg
+image: burger-week/2018/danwei-canting-spicy-pork-burger-burger-week-2018.jpg
 event:
   - Portland Burger Week
     - 2018  

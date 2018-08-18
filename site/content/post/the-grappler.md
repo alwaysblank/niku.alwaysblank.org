@@ -2,10 +2,10 @@
 title: "The Grappler"
 publishDate: 2018-08-13T21:41:47-07:00
 description: Get your hands on this burger.
-image: /burger-week/2018/lay-low-tavern-the-grappler-burger-week-2018.jpg
+image: burger-week/2018/lay-low-tavern-the-grappler-burger-week-2018.jpg
 gallery: 
   -
-    img: /burger-week/2018/the-grappler-in-progress.jpg
+    img: burger-week/2018/the-grappler-in-progress.jpg
     alt: "A partially eaten Grappler"
 event:
   - Portland Burger Week

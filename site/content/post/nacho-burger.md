@@ -2,10 +2,10 @@
 title: "Nacho Burger"
 publishDate: 2018-08-15T21:13:42-07:00
 description: Saucy *and* cheesy.
-image: /burger-week/2018/bit-house-saloon-nacho-burger-burger-week-2018.jpg
+image: burger-week/2018/bit-house-saloon-nacho-burger-burger-week-2018.jpg
 gallery: 
   -
-    img: /burger-week/2018/nacho-burger-in-progress.jpg
+    img: burger-week/2018/nacho-burger-in-progress.jpg
     alt: "A partially eaten Nacho Burger"
 event:
   - Portland Burger Week
