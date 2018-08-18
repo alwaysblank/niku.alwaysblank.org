@@ -1,7 +1,8 @@
 {{ define "main" }}
 
   <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <h1 class="f2 lh-title b mb2">{{.Title}}</h1>
+    <p class="i f5 grey-3">I ate this at <span class="b">{{ .Params.location }}</span></p>
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
