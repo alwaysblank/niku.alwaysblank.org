@@ -2,4 +2,4 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
 [params]
-cloudinary_base_url = ""
+cloudinary_base_url = "/img"
