@@ -38,7 +38,7 @@
 	{{ else }}
 		<meta property="og:type" content="website">
 	{{ end }}
-	<meta property="og:title" content="Niku | Food I ate">
+	<meta property="og:title" content="{{ .Title }} | N🍖KU">
 	<meta property="og:url" content="{{ .Permalink | absURL }}">
 	<meta property="og:image" content="{{ $.Site.Params.cloudinary_base_url_og }}{{ .Params.image }}">
 	<meta property="og:description" content="{{ .Params.description }}" />
