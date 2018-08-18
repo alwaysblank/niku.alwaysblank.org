@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 description: A neat little blurb to introduce the review.
 image: 
-image2: 
+gallery: 
 event:
 foods:
 location: 

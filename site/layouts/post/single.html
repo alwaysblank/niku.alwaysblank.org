@@ -7,10 +7,14 @@
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
+      <p>{{ .Description | markdownify }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      {{ if .Params.image2 }}<img src="{{ .Params.image2 }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.gallery }}
+        {{ range .Params.gallery }}
+          <img src="{{ .img }}" alt="{{ .alt }}" />
+        {{ end }}
+      {{ end }}
     </div>
   </div>
 {{ end }}
