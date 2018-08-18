@@ -1,0 +1,5 @@
+baseurl = "https://niku.alwaysblank.org/"
+languageCode = "en-us"
+title = "Homepage"
+[params]
+cloudinary_base_url = "https://res.cloudinary.com/djd6kxozp/image/fetch/w_660,q_auto,fl_any_format,dpr_auto/"

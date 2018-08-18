@@ -20,6 +20,10 @@ if (process.env.DEBUG) {
   defaultArgs.unshift("--debug")
 }
 
+if (process.env.NETLIFY) {
+  defaultArgs.unshift(" --config config.production.toml")
+}
+
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 gulp.task("build", ["css", "js", "hugo"]);
