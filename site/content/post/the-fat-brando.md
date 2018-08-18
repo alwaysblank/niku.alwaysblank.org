@@ -6,9 +6,9 @@ event:
   - Portland Burger Week
     - 2018
 foods:
-  - bamburger
+  - burger
   - fries
-    - waffle
+fries: waffle
 location: Home, A Bar
 image: burger-week/2018/home-a-bar-the-fat-brando-burger-week-2018.jpg
 gallery:

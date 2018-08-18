@@ -7,7 +7,7 @@ gallery:
   - 
     img: burger-week/2018/buckaroo-burger-in-progress.jpg
     alt: "A partially eaten Buckaroo Burger"
-food:
+foods:
   - burger
   - fries
 event: 

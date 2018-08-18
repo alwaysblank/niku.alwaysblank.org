@@ -17,5 +17,13 @@
         {{ end }}
       {{ end }}
     </div>
+    <div>
+      <h3>What exactly did I eat?</h3>
+      <ul>
+        {{ range $food := .Params.foods }}
+          <li>✓ {{ $.Param $food }} {{ $food }}</li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 {{ end }}
