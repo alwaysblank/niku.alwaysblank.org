@@ -9,11 +9,11 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description | markdownify }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img src="{{ $.Site.Params.cloudinary_base_url }}/image/fetch/w_660,q_auto,fl_any_format,dpr_auto/{{ .Params.image | absURL }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
       {{ if .Params.gallery }}
         {{ range .Params.gallery }}
-          <img src="{{ .img }}" alt="{{ .alt }}" />
+          <img src="{{ $.Site.Params.cloudinary_base_url }}/image/fetch/w_660,q_auto,fl_any_format,dpr_auto/{{ .img }}" alt="{{ .alt }}" />
         {{ end }}
       {{ end }}
     </div>
