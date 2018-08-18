@@ -11,7 +11,7 @@ event:
   - Portland Burger Week
     - 2018  
 foods:
-  - Burger
+  - burger
 location: Lay Low Tavern
 ---
 Second burger of #portlandburgerweek, but (currently) number one in my heart, this is The Grappler from the Lay Low Tavern. Awesome blend of sweet (apples!) and savory (gorgonzola! beef!). Eat it fast: it's best hot.

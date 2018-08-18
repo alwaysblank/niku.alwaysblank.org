@@ -11,8 +11,8 @@ event:
   - Portland Burger Week
     - 2018
 foods:
-  - Burger
-  - Caesar Salad
+  - burger
+  - caesar salad
 location: EastBurn Public House
 ---
 #portlandburgerweek burger number 7 was the Big Mike at EastBurn Public House. The sauce was excellent (and deliciously mustard-y), but could have been applied more liberally, and the fried pickles were great, when I found them. Overall a good burger kept from greatness by conservative application of ingredients (and some not great lettuce). EastBurn is a well-oiled machine, though: I came in at 5:45pm and had my burger inside of 15 minutes.

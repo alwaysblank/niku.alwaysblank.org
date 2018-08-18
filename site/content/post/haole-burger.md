@@ -14,7 +14,7 @@ event:
   - Portland Burger Week
     - 2018  
 foods:
-  - Burger
+  - burger
 location: Alameda Brewing Co.
 ---
 Burger number 4 in #portlandburgerweek is the Haole Burger at Alameda Brewing Company, and it is accurately named--perhaps too accurately. I didn't get any identifiable "island" flavor: instead I mostly just got the taste of the mainland--mayonnaise and salt. If you love spam, give it a shot, but not my favorite burger so far.

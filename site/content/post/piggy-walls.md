@@ -15,7 +15,7 @@ event:
   - Portland Burger Week
     - 2018
 foods:
-  - Burger
+  - burger
 location: Tilt 3
 ---
 It's a two-burger night, my friends! Say hello to the Piggy Walls from Tilt, burger number 6 in this year's #portlandburgerweek. This thing is a behemoth. The second patty is arguably unnecessary. Even my tremendous maw could barely fight around it. Marina had to spend a few seconds psyching herself up and getting in a few deep breaths before trying to take a bite. But that bite is worth it! This is one delicious burger, just don't expect to eat anything else: lifting it up is a workout and it sounds like an encyclopedia when it hits the table. I had to take half of it home, uneaten.

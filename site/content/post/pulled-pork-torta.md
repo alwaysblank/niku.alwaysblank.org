@@ -5,7 +5,7 @@ description: Tasty but unexceptional.
 image: burger-week/2018/smokehouse-tavern-pulled-pork-torta-burger-week-2018.jpg
 location: Smokehouse Tavern
 food:
-  - Burger
+  - burger
 event: 
   - Portland Burger Week
     - 2018
