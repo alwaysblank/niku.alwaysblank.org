@@ -2,5 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
 [params]
-cloudinary_base_url = "/img/"
-cloudinary_base_url_og = "/img/"
+  cloudinary_base_url = "/img/"
+  cloudinary_base_url_og = "/img/"
+
+[taxonomies]
+  event = "events"
+  foods = "foods"

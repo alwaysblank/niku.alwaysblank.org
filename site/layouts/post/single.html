@@ -25,5 +25,15 @@
         {{ end }}
       </ul>
     </div>
+
+    <div class="flex justify-between w100 mt4">
+      {{ with .PrevInSection }}
+        <a class="pa1 b dib br1 link" href="{{ .Permalink }}">← {{ .Title }}</a>
+      {{ end }}
+
+      {{ with .NextInSection }}
+        <a class="pa1 b dib br1 link" href="{{ .Permalink }}">{{ .Title }} →</a>
+      {{ end }}
+    </div>
   </div>
 {{ end }}
