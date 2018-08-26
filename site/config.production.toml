@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Homepage"
 [params]
   cloudinary_base_url = "https://res.cloudinary.com/djd6kxozp/image/upload/w_660,q_auto,fl_any_format,dpr_auto/niku/"
-  cloudinary_base_url_og = "https://res.cloudinary.com/djd6kxozp/image/upload/w_1200,h_630,c_crop,q_auto,fl_any_format/niku/"
+  cloudinary_base_url_og = "https://res.cloudinary.com/djd6kxozp/image/upload/w_1200,h_1200,c_crop,q_auto,fl_any_format/niku/"
 
 [taxonomies]
   event = "events"
