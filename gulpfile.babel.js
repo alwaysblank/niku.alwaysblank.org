@@ -71,7 +71,7 @@ gulp.task("svg", () => {
     .pipe(gulp.dest("site/layouts/partials/"));
 });
 
-gulp.task("server", ["hugo", "css", "js", "svg"], () => {
+gulp.task("server", ["hugo-preview", "css", "js", "svg"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
