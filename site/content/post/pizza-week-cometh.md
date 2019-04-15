@@ -3,7 +3,9 @@ title: "Pizza Week Cometh"
 date: 2019-04-09T16:36:43-07:00
 description: Yes, that's a slice of pizza with spaghetti on it, and it's available for Pizza Week 2019.
 image: pizza-week/2019/bella-bicep.jpg
-event: Pizza Week
+event: 
+    - Pizza Week
+        - 2019
 foods: 
     - Nothing yet!
 location: Portland, OR
@@ -16,7 +18,9 @@ I've split things out into a couple categories:
 
 ## Definitely
 
-[**Elote Pie**][elote] - *Blackbird Pizza*
+✔ [**Elote Pie**][elote] - *Blackbird Pizza*
+
+[Read my review of Blackbird's Elote Pie!](/post/elote-pie/)
 
 When my wife first told me about elote I thought it sounded disgusting. Now I can't get enough of it. Unfortunately a lot of "restraurants" have a really hard time getting it right, so I'm trying not to get my hopes up, but a elote pizza sounds *amazing*.
 

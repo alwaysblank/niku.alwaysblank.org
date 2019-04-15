@@ -3,3 +3,9 @@ dist/
 /npm-debug.log
 yarn-error.log
 site/public/
+site/public/index.html
+site/public/index.html
+site/public/index.xml
+site/public/post/index.xml
+site/public/post/index.html
+site/public/sitemap.xml
