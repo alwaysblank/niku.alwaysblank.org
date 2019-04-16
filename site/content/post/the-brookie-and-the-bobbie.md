@@ -1,7 +1,6 @@
 ---
 title: "The Brookie and the Bobbie"
 date: 2019-04-16T13:00:54-07:00
-draft: true
 description: Pizza Jerk had a surprise twofer.
 image: pizza-week/2019/pizza-jerk-the-bookie-and-the-bobbie.jpg
 gallery:
