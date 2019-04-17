@@ -50,7 +50,9 @@ a) *Easy Glisan Pizza Lounge* is staffed by pizza wizards
 b) I'm not sure what "truffled farmer's cheese" is but it sounds great  
 c) It's called *__Kindly Go Duck Yourself__*
 
-[**The Brookie**][brookie] - *Pizza Jerk*
+✔ [**The Brookie**][brookie] - *Pizza Jerk*
+
+[Read my review of Pizza Jerks's Brookie!](/post/the-brookie-and-the-bobbie/)
 
 I'm really not generally about jalapeños, which I think are both an over-used and a not-very-good pepper, but I *do* like pickled things, and the combo of bacon and hot honey sounds heavenly.
 
