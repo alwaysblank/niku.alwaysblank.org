@@ -74,7 +74,9 @@ This creation pushes the bounds of what we can even call pizza. Does it push the
 
 This slice looks you in the eye and says "Go on. Say I'm not really pizza. Do it, you fucking coward" and I love it and I'm here for every minute of it. Tied with everything else in this category for dumbest slice of "pizza."
 
-[**The Wedge**][wedge] - *Hogan's Goat*
+✔ [**The Wedge**][wedge] - *Hogan's Goat*
+
+[Read my review of Hogan's Goat's Wedge!](/post/the-wedge/)
 
 Someone literally just tossed a few salad ingredients on a piece of cheese pizza. Is this the laziest slice? (No; that's the vegan slice with the audacity to call itself "[Classic Pepperoni][classic]") The (classic) Wedge you get at restaurants is really barely a salad, so it seems fitting that someone try and combine it with cheesy flatbread to make something that's barely pizza.
 
